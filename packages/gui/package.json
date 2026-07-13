@@ -159,7 +159,7 @@
     "tailwindcss": "^4.1.10",
     "terser": "5.44.1",
     "terser-webpack-plugin": "5.4.0",
-    "typescript": "5.7.3",
+    "typescript": "6.0.3",
     "webpack": "5.105.1",
     "webpack-bundle-analyzer": "4.10.2",
     "webpack-cli": "6.0.1",
